@@ -1,2 +1,12 @@
 Messages:
+    Prefix: "&6&lsᴋɪʟʟs &e&l➦"
     Mob-Killed: "&7You get &e&n{XP} xp&7 for killing &e&n{VICTIM}&b [Current XP: {CURRENT}]"
+    GUI-Header-Skill: "&8sᴋɪʟʟs"
+    #
+    Skill-GUI-Player-INFO-name: "&6&nʏᴏᴜʀ sᴛᴀᴛ's"
+    Skill-GUI-Strength-Name: "&6&nsᴛʀᴇɴɢᴛʜ"
+    Skill-GUI-Intelligence-Name: "&f&nɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ"
+    Skill-GUI-Health-Name: "&4&nʜᴇᴀʟᴛʜ"
+    Skill-GUI-XP-Gain-Name: "&a&nxᴘ ɢᴀɪɴ"
+    # /nl/ means newline in item lore
+    Skill-GUI-Player-INFO-lore: "/nl/&f&nsᴋɪʟʟ's ʟᴇᴠᴇʟ's;/nl//nl/&e▸ &7sᴛʀᴇɴɢᴛʜ: &f{ST-Level} / {MAX-LV-Strength} lvl./nl/&e▸ &7ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ: &f{INT-Level} / {MAX-LV-Intelligence} lvl./nl/&e▸ &7ʜᴇᴀʟᴛʜ: &f{Health-Level} / {MAX-LV-Health} lvl./nl/&e▸ &7xᴘ ɢᴀɪɴ: &f{XP-Gain} / {MAX-LV-XP-Gain} lvl."
