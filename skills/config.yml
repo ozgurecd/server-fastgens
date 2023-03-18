@@ -32,89 +32,19 @@ monster-xps:
     zombie pigman: 20
 
 
-general:
-    skill-Strength:
-        level-2:
-            need-XP: 150
-            extra-damage: 1
-        level-3:
-            need-XP: 250
-            extra-damage: 1.25
-        level-4:
-            need-XP: 400
-            extra-damage: 1.50
-        level-5:
-            need-XP: 650
-            extra-damage: 1.75
-        level-6:
-            need-XP: 800
-            extra-damage: 2
-        level-7:
-            need-XP: 1150
-            extra-damage: 2.25
-        level-8:
-            need-XP: 1400
-            extra-damage: 2.50
-        level-9:
-            need-XP: 1750
-            extra-damage: 2.75
-        level-10:
-            need-XP: 2000
-            extra-damage: 3
-    skill-xp-gain:
-        level-2:
-            need-XP: 150
-            extra-XP: 10
-        level-3:
-            need-XP: 300
-            extra-XP: 12
-        level-4:
-            need-XP: 550
-            extra-XP: 15
-        level-5:
-            need-XP: 750
-            extra-XP: 17
-        level-6:
-            need-XP: 1000
-            extra-XP: 20
-        level-7:
-            need-XP: 1300
-            extra-XP: 23
-        level-8:
-            need-XP: 1500
-            extra-XP: 25
-        level-9:
-            need-XP: 1750
-            extra-XP: 27
-        level-10:
-            need-XP: 2000
-            extra-XP: 30
-    skill-Health:
-        level-2:
-            need-XP: 150
-            extra-Heart: 1
-        level-3:
-            need-XP: 300
-            extra-Heart: 2
-        level-4:
-            need-XP: 600
-            extra-Heart: 3
-        level-5:
-            need-XP: 900
-            extra-Heart: 4
-        level-6:
-            need-XP: 1250
-            extra-Heart: 5
-        level-7:
-            need-XP: 1500
-            extra-Heart: 6
-        level-8:
-            need-XP: 1900
-            extra-Heart: 7
-        level-9:
-            need-XP: 2300
-            extra-Heart: 8
-        level-10:
-            need-XP: 2600
-            extra-Heart: 10
-            
+skills:
+    Strength:
+        max-level: 20
+        each-xp-per-level: 250
+        each-damage-buff-per-level: 1
+    Intelligence:
+        max-level: 20
+        each-xp-per-level: 250
+    XP-gain:
+        max-level: 20
+        each-xp-per-level: 250
+        each-xp-bonus-per-level: 5
+    Health:
+        max-level: 20
+        each-xp-per-level: 250
+        each-health-per-level: 1
